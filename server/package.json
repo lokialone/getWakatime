@@ -1,0 +1,15 @@
+{
+  "name": "getwakatime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lokialone",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.5.8",
+    "monk": "^3.1.1"
+  }
+}
